@@ -1,0 +1,36 @@
+----------------------------------------------------------------------------
+
+RetroPronghorn Lucky Blocks Addon License
+
+----------------------------------------------------------------------------
+Author & Permissions
+The Lucky Block was created by Adam Boyajian, alias Imacreeper2013.
+
+The RetroPronghorn Lucky Block Addon is protected by United States Copyright Law. By using the addon, you must follow the guidelines below.
+1) You May:
+* look at the code.
+* copy code snippets.
+* Use the addon on your server, public or private.
+* Use this addon for Youtube videos / Twitch streams.
+* Create and distribute custom maps and mini-games using the addon.
+
+
+2) You May not:
+* Release modified versions of this addon without permission from the addon author. (forking is allowed to contribute to the addon (Pull Requests)).
+* Sell or reupload the addon.
+* Claim ownership of the addon.
+* Create and distribute public modpacks using the mod without permission from the addon author.
+
+
+3) Contribution:
+* By submitting work to this project you grant this project full rights to the submitted work.
+
+
+4) Liability:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

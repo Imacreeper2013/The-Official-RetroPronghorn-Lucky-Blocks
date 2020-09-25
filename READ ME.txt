@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------
+
+RetroPronghorn Lucky Blocks Version 1.0			Minecraft Version: 1.12.2
+
+----------------------------------------------------------------------------
+
+This is a fan made Lucky Block addon for RetroPronghorn made by Imacreeper2013.
+
+This is a fully functioning but still WIP Lucky Block Addon. (takeing addition ideas)
+I plan on eventually only needing the Origional Lucky Block mod and this addon
+
+
+
+For version 1.0 you need;
+	Minecraft Forge version 1.12.2
+	The Origional Lucky Block mod for 1.12.2
+	The Additions mod for 1.12.2 
+	The Loot Overhaul mod for 1.12.2
+
+
+How to install
+	1) Install the latest version of Forge for 1.12.2
+	2) Download the Additions, Loot overhaul and Lucky Block Mod (Additions, Loot Overhaul, Lucky Block)
+	3) Run Minecraft once with all these mods installed to generate everything needed.
+	4) Close out of Minecraft and download the project. 
+	5) Open the RetroPronghorn Lucky Blocks folder and drag the Additions and lucky_block folder inside the ZIP of this project into .minecraft\addons
+	6) Open up Minecraft and play.
+
+
+	
+	
